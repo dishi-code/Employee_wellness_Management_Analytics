@@ -39,11 +39,3 @@ The platform allows users to upload employee feedback datasets (CSV/TXT), run mu
 
 ---
 
-## 🚀 How to Run
-
-1. **Install Dependencies**:
-   ```bash
-   pip install streamlit psycopg2-binary PyJWT bcrypt python-dotenv email-validator pyngrok \
-               fastapi uvicorn python-multipart requests langdetect ftfy emoji \
-               deep-translator vaderSentiment spacy pandas matplotlib transformers accelerate torch stopwordsiso
-   python -m spacy download xx_sent_ud_sm
