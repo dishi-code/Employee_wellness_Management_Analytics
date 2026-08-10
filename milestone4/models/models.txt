@@ -20,9 +20,3 @@
 6. Qwen2.5-0.5B-Instruct (local)
    Powers the Wellness Chat conversational assistant.
 
-7. GPT-OSS-20B (via Groq API)
-   Generates personalized journal recommendations (breathing/
-   journaling/resource suggestions).
-
-8. DeepFace
-   Facial emotion recognition for the Live Face Scanner feature.
